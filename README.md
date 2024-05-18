@@ -16,4 +16,4 @@ is assumed a user is online for 60 minutes after each login.
 [AVL Trees](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/AVL%20Trees) - This code remove all stocks with a price to earnings ration of less a given threshold.
 
 
-Graphs - An algorithm to find a route from point A to point B on the toll roads or the cheapest possible overall toll for your trip.
+[Graphs](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Graphs) - An algorithm to find a route from point A to point B on the toll roads or the cheapest possible overall toll for your trip.
