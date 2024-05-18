@@ -11,3 +11,6 @@ is assumed a user is online for 60 minutes after each login.
 
 
 [Circular Double-Ended Queues (Deque)](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Deque) - This algotithm is devised to take a pay period and work interval to maximize the profits you can make.
+
+
+AVL Trees - This code remove all stocks with a price to earnings ration of less a given threshold.
