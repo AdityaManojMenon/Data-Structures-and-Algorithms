@@ -8,3 +8,6 @@
 [Hash Tables](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Hash%20Tables) - Create a SessionsTable data structure that records when a user logs in. The SessionsTable will log the user’s session by
 generating a session ID. The SessionsTable will also be able to determine if a user was online during a certain time. It
 is assumed a user is online for 60 minutes after each login.
+
+
+Circular Double-Ended Queues (Deque) - This algotithm is devised to take a pay period and work interval to maximize the profits you can make.
