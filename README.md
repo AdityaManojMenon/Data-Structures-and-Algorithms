@@ -35,5 +35,5 @@ is assumed a user is online for 60 minutes after each login.
 
 [Binary Search Tree](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Binary%20Search%20Tree)
 
-Build a Minheap
+[Build a Minheap](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Build%20a%20Minheap)
 
