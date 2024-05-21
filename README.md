@@ -20,3 +20,5 @@ is assumed a user is online for 60 minutes after each login.
 
 
 [Graphs](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Graphs) - An algorithm to find a route from point A to point B on the toll roads or the cheapest possible overall toll for your trip.
+
+# Coding Challenges
