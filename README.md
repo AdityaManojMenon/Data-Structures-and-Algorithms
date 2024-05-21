@@ -29,5 +29,5 @@ is assumed a user is online for 60 minutes after each login.
 
 [Working with Arrays](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Working%20with%20Arrays)
 
-Majority element in an array
+[Majority element in an array](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Majority%20element%20in%20an%20array)
 
