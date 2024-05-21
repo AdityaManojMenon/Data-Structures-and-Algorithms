@@ -33,3 +33,5 @@ is assumed a user is online for 60 minutes after each login.
 
 [Stack Applications](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Stack%20Applications)
 
+Binary Search Tree
+
