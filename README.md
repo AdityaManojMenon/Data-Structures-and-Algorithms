@@ -31,5 +31,5 @@ is assumed a user is online for 60 minutes after each login.
 
 [Majority element in an array](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Majority%20element%20in%20an%20array)
 
-Stack Applications
+[Stack Applications](https://github.com/AdityaManojMenon/Data-Structures-and-Algorithms/tree/main/Stack%20Applications)
 
